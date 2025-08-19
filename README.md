@@ -33,6 +33,3 @@ You can expand the knowledge base by adding more rows in FAQ.csv.
 
 Developed by Maryam Ijaz as part of the CodeAlpha Internship.
 
-
-
-## 📂 Project Structure
